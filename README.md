@@ -9,9 +9,7 @@
 
 ## Tests
 
-- [Don't permute](https://github.com/josecarlosqs/indra-prueba-tecnica/tree/main/game-01)
-- [Magic Square](https://github.com/josecarlosqs/indra-prueba-tecnica/tree/main/game-02)
-- [Spaghetti code](https://github.com/josecarlosqs/indra-prueba-tecnica/tree/main/game-03)
+- [Spaghetti code](https://github.com/josecarlosqs/indra-prueba-tecnica/tree/main/game-01)
 
 ## Any doubts?
 Send a email with your questions to jcquichiz@indracompany.com
